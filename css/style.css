@@ -125,7 +125,7 @@
     margin-bottom: 25px;
   }
   h1 {
-    font-size:260%;
+    font-size:240%;
   }
   h4 {
     font-size:200%;
@@ -135,11 +135,11 @@
 /*Medium devices (tablets, 768px ve yukarısı)*/
 @media (min-width: 768px) {
   .container1{
-    width: 40%;
+    width: 30%;
 
   }
   .container2{
-    width: 60%;
+    width: 70%;
   }
   .overlay {
     width: 58%;
@@ -214,7 +214,7 @@ margin-right: 260px;
     width: 75px;
   }
   h1 {
-    font-size: 300%;
+    font-size: 279%;
   }h4 {
     font-size: 300%;
   }}
