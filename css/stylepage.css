@@ -184,7 +184,37 @@ margin-top: 5px;
   margin-left: 15px;
     
 }
+#lol1{
+  background-color: #101820FF;
+}
+#lol2{
+  background-color: #FEE715FF;
+}
+#lol3>h1{
+  color: #FEE715FF;
+}
+#lol3>h4{
+  color: #FEE715FF;
+}
+#lol4>h1{
+  color: #101820FF;
+}
 
+#iz1{
+  background-color: #00203FFF;
+}
+#iz2{
+  background-color: #ADEFD1FF;
+}
+#iz3>h1{
+  color: #ADEFD1FF;
+}
+#iz3>h4{
+  color: #ADEFD1FF;
+}
+#iz4>h1{
+  color: #00203FFF;
+}
 
 #ilk1{
   background-color: #c5b0e2;
