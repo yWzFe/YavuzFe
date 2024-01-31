@@ -230,15 +230,15 @@ margin-right: 260px;
     width: 80%;
   }
   .overlay {
-    width: 78%;
-margin-left: 50px;
+    width: 76%;
+margin-left: 10px;
     margin-right: 200px;
     margin-bottom: 20px;
   }
   #logo {
     width: 344px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 10px;
+    margin-right: 100px;
     margin-bottom: 20px;
     border-radius: 8%;
   }
