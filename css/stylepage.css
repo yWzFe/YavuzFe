@@ -1,3 +1,13 @@
+@font-face {
+  font-family: Alt;
+  src: url(../fonts/SHPinscher-Regular.otf );
+}
+  @font-face {
+    font-family: Header;
+    src: url(../fonts/upheavtt.ttf);
+  }
+
+
 @media (max-width:340px) {
   .container1{
     height: 75%;
@@ -291,11 +301,3 @@ margin-top: 5px;
 #antik1{
   background-color: #ccb263;
 }
-@font-face {
-  font-family: Alt;
-  src: url(../fonts/SHPinscher-Regular.otf );
-}
-  @font-face {
-    font-family: Header;
-    src: url(../fonts/upheavtt.ttf);
-  }
