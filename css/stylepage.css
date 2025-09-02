@@ -194,6 +194,43 @@ margin-top: 5px;
   margin-left: 15px;
     
 }
+
+
+#med1{
+  background-color: #212121;
+}
+#med2{
+  background-color: #E67514;
+}
+#med3>h1{
+  color: #E67514;
+}
+#med3>h4{
+  color: #E67514;
+}
+#med4>h1{
+  color: #212121;
+}
+
+
+#born1{
+  background-color: #3E0703;
+}
+#born2{
+  background-color: #0d8d08;
+}
+#born3>h1{
+  color: #14ae0f;
+}
+#born3>h4{
+  color: #14ae0f;
+}
+#born4>h1{
+  color: #3E0703;
+}
+
+
+
 #lol1{
   background-color: #101820FF;
 }
@@ -226,6 +263,8 @@ margin-top: 5px;
   color: #00203FFF;
 }
 
+
+
 #kes1{
   background-color: #291b5d;
 }
@@ -233,10 +272,10 @@ margin-top: 5px;
   background-color: #ddceeb;
 }
 #kes3>h1{
-  color: #663b9d;
+  color: #8a62be;
 }
 #kes3>h4{
-  color: #663b9d;
+  color: #8a62be;
 }
 #kes4>h1{
   color: #908498;
@@ -285,19 +324,19 @@ margin-top: 5px;
   background-color: #9E903B;
 }
 #tu2{
-  background-color: #884A39;
-  #hazir1{
-  background-color: #FFFFFF;
-}
-#hazir2{
-  background-color: #000000;
-}#tu3>h1{
+  background-color: #884A39;}
+  #tu3>h1{
   color: #250000;
 }
 #tu3>h4{
   color: #250000;
 }
-
+#hazir1{
+  background-color: #FFFFFF;
+}
+#hazir2{
+  background-color: #000000;
+}
 #antik1{
   background-color: #ccb263;
 }
