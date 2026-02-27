@@ -213,6 +213,22 @@ margin-top: 5px;
 }
 
 
+#hib1{
+  background-color: #514e52;
+}
+#hib2{
+  background-color: #4669a1;
+}
+#pir>h1{
+  color: #847e87;
+}
+#pir3>h4{
+  color: #847e87;
+}
+#pir4>h1{
+  color: #a14646;
+}
+
 #pir1{
   background-color: #78C841;
 }
@@ -228,8 +244,6 @@ margin-top: 5px;
 #pir4>h1{
   color: #FB4141;
 }
-
-
 
 #born1{
   background-color: #3E0703;
@@ -358,4 +372,5 @@ margin-top: 5px;
 #antik1{
   background-color: #ccb263;
 }
+
 
