@@ -213,6 +213,24 @@ margin-top: 5px;
 }
 
 
+#pir1{
+  background-color: #78C841;
+}
+#pir2{
+  background-color: #E67514;
+}
+#pir>h1{
+  color: #B4E50D;
+}
+#pir3>h4{
+  color: #B4E50D;
+}
+#pir4>h1{
+  color: #FB4141;
+}
+
+
+
 #born1{
   background-color: #3E0703;
 }
@@ -340,3 +358,4 @@ margin-top: 5px;
 #antik1{
   background-color: #ccb263;
 }
+
