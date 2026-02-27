@@ -214,35 +214,35 @@ margin-top: 5px;
 
 
 #hib1{
-  background-color: #514e52;
+  background-color: #a14646;
 }
 #hib2{
   background-color: #4669a1;
 }
-#pir>h1{
-  color: #847e87;
+#hib>h1{
+  color: #514e52;
 }
-#pir3>h4{
-  color: #847e87;
+#hib3>h4{
+  color: #514e52;
 }
-#pir4>h1{
-  color: #a14646;
+#hib4>h1{
+  color: #847e87;
 }
 
 #pir1{
-  background-color: #78C841;
+  background-color: #006306;
 }
 #pir2{
-  background-color: #E67514;
+  background-color: #2f1e15;
 }
 #pir>h1{
-  color: #B4E50D;
+  color: #ae0000;
 }
 #pir3>h4{
-  color: #B4E50D;
+  color: #ae0000;
 }
 #pir4>h1{
-  color: #FB4141;
+  color: #ae0000;
 }
 
 #born1{
@@ -372,5 +372,6 @@ margin-top: 5px;
 #antik1{
   background-color: #ccb263;
 }
+
 
 
